@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pyPoul
+- 👋 Hi, I’m [ןטסקπ🐙](https://github.com/pyPoul)
 - 👀 I’m interested in you
 - 🌱 I’m currently learning you
 - 💞️ I’m looking to collaborate on you
-- 📫 How to reach me : [here](https://github.com/pyPoul) 🙃
+- 📫 How to reach me : [not](https://github.com/pyPoul) here🙃
 
 <!---
 pyPoul/pyPoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
